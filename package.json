@@ -1,0 +1,12 @@
+{
+    "name"        : "incept-balancer"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://abru.pt"
+  , "description" : "Incept balancer"
+  , "author": "Pedro Dias <petermdias@gmail.com>"
+  , "dependencies": {
+      "through"              : "*"
+      , "nano"              : "*"
+    }
+  , "main"    : "./main.js"
+}
