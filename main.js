@@ -1,4 +1,4 @@
-var Server = require('./lib/server');
+var Core = require('./lib/core');
 
-var server = new Server();
-server.start();
+var c = new Core();
+c.start();
